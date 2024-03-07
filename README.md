@@ -29,7 +29,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ![Screenshot 2024-03-07 174616](https://github.com/krishna-dattu/Book-Catalog-Management-System/assets/132872315/3a53c2ef-5f59-4506-90c4-6edbb98b0a2a)
 
-![Screenshot 2024-03-07 193827](https://github.com/krishna-dattu/Book-Catalog-Management-System/assets/132872315/eea4b214-dacd-4b3d-bd48-1e95047d9bb5)
+![Screenshot 2024-03-07 194047](https://github.com/krishna-dattu/Book-Catalog-Management-System/assets/132872315/d95f5cee-409b-4e3c-9a94-99f1fe89b24e)
+
 
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
