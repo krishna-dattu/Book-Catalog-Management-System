@@ -1,0 +1,308 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Bookworm",
+      "title": "The Silent Reader",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Reader123",
+      "title": "Whispers of Wisdom",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "name": "LiteraryFanatic",
+      "title": "Pages of Passion",
+      "author": "Mark Johnson"
+    },
+    {
+      "id": 4,
+      "name": "BookLover22",
+      "title": "Echoes of Eternity",
+      "author": "Emily White"
+    },
+    {
+      "id": 5,
+      "name": "NovelExplorer",
+      "title": "Dreams Unbound",
+      "author": "Robert Green"
+    },
+    {
+      "id": 6,
+      "name": "StorySeeker",
+      "title": "Chronicles of Destiny",
+      "author": "Amanda Brown"
+    },
+    {
+      "id": 7,
+      "name": "ProsePioneer",
+      "title": "Lost in Words",
+      "author": "Michael Taylor"
+    },
+    {
+      "id": 8,
+      "name": "VerseVoyager",
+      "title": "Rhythms of Rhyme",
+      "author": "Sophie Clark"
+    },
+    {
+      "id": 9,
+      "name": "ReadingRover",
+      "title": "Wanderlust Tales",
+      "author": "Daniel Turner"
+    },
+    {
+      "id": 10,
+      "name": "ScriptScribe",
+      "title": "Drama in the Dark",
+      "author": "Olivia Harris"
+    },
+    {
+      "id": 11,
+      "name": "LitLegacy",
+      "title": "Legacy of Legends",
+      "author": "David King"
+    },
+    {
+      "id": 12,
+      "name": "BookishExplorer",
+      "title": "Quest for Knowledge",
+      "author": "Emma Miller"
+    },
+    {
+      "id": 13,
+      "name": "ChapterChaser",
+      "title": "Chasing Sunset",
+      "author": "Charlie Brown"
+    },
+    {
+      "id": 14,
+      "name": "WordWanderer",
+      "title": "Worlds Apart",
+      "author": "Grace Turner"
+    },
+    {
+      "id": 15,
+      "name": "NovelNavigator",
+      "title": "Navigating Dreams",
+      "author": "Ethan Walker"
+    },
+    {
+      "id": 16,
+      "name": "DreamReader",
+      "title": "Realm of Reverie",
+      "author": "Hannah White"
+    },
+    {
+      "id": 17,
+      "name": "BookBard",
+      "title": "Verses in the Valley",
+      "author": "Lucas Taylor"
+    },
+    {
+      "id": 18,
+      "name": "ChapterCaptain",
+      "title": "Captain's Log",
+      "author": "Sophia Brown"
+    },
+    {
+      "id": 19,
+      "name": "LitLighthouse",
+      "title": "Beacon of Books",
+      "author": "Nathan Turner"
+    },
+    {
+      "id": 20,
+      "name": "BookBuff",
+      "title": "Buffed Pages",
+      "author": "Isabella Davis"
+    },
+    {
+      "id": 21,
+      "name": "VerseVagabond",
+      "title": "Voyage of Verses",
+      "author": "Andrew Clark"
+    },
+    {
+      "id": 22,
+      "name": "ProsePilgrim",
+      "title": "Pilgrimage of Prose",
+      "author": "Grace Johnson"
+    },
+    {
+      "id": 23,
+      "name": "NovelNomad",
+      "title": "Nomad's Narrative",
+      "author": "William White"
+    },
+    {
+      "id": 24,
+      "name": "ScriptSailor",
+      "title": "Sailing Scripts",
+      "author": "Sophie Turner"
+    },
+    {
+      "id": 25,
+      "name": "ReadingRanger",
+      "title": "Ranger's Read",
+      "author": "Daniel Miller"
+    },
+    {
+      "id": 26,
+      "name": "BookishBard",
+      "title": "Bard's Tale",
+      "author": "Olivia Taylor"
+    },
+    {
+      "id": 27,
+      "name": "LitLover",
+      "title": "Love for Literature",
+      "author": "David Harris"
+    },
+    {
+      "id": 28,
+      "name": "ChapterCrafter",
+      "title": "Crafting Chapters",
+      "author": "Emma King"
+    },
+    {
+      "id": 29,
+      "name": "VerseVirtuoso",
+      "title": "Virtuoso Verses",
+      "author": "Charlie Turner"
+    },
+    {
+      "id": 30,
+      "name": "BookExplorer",
+      "title": "Exploring Epics",
+      "author": "Grace Davis"
+    },
+    {
+      "id": 31,
+      "name": "NovelNinja",
+      "title": "Ninja Narratives",
+      "author": "Ethan Turner"
+    },
+    {
+      "id": 32,
+      "name": "StorySculptor",
+      "title": "Sculpting Stories",
+      "author": "Hannah Miller"
+    },
+    {
+      "id": 33,
+      "name": "DreamDiver",
+      "title": "Diving into Dreams",
+      "author": "Lucas White"
+    },
+    {
+      "id": 34,
+      "name": "BookBound",
+      "title": "Boundless Books",
+      "author": "Sophia Turner"
+    },
+    {
+      "id": 35,
+      "name": "ChapterChampion",
+      "title": "Champion's Chronicles",
+      "author": "Nathan King"
+    },
+    {
+      "id": 36,
+      "name": "VerseVoyageur",
+      "title": "Voyageur's Verses",
+      "author": "Isabella Harris"
+    },
+    {
+      "id": 37,
+      "name": "ProsePioneer",
+      "title": "Pioneering Prose",
+      "author": "Andrew Davis"
+    },
+    {
+      "id": 38,
+      "name": "NovelNest",
+      "title": "Nest of Narratives",
+      "author": "Grace Turner"
+    },
+    {
+      "id": 39,
+      "name": "BookBard",
+      "title": "Bard's Ballad",
+      "author": "William Harris"
+    },
+    {
+      "id": 40,
+      "name": "ScriptScribe",
+      "title": "Scripted Symphony",
+      "author": "Sophie King"
+    },
+    {
+      "id": 41,
+      "name": "VerseVoyager",
+      "title": "Voyage of Vision",
+      "author": "Daniel Harris"
+    },
+    {
+      "id": 42,
+      "name": "ProsePilgrim",
+      "title": "Pilgrim's Pages",
+      "author": "Olivia Davis"
+    },
+    {
+      "id": 43,
+      "name": "NovelNomad",
+      "title": "Nomad's Novel",
+      "author": "David Turner"
+    },
+    {
+      "id": 44,
+      "name": "ScriptSailor",
+      "title": "Sailor's Scripts",
+      "author": "Emma Harris"
+    },
+    {
+      "id": 45,
+      "name": "ReadingRanger",
+      "title": "Ranger's Reads",
+      "author": "Charlie Davis"
+    },
+    {
+      "id": 46,
+      "name": "BookishBard",
+      "title": "Bard's Book",
+      "author": "Grace Turner"
+    },
+    {
+      "id": 47,
+      "name": "LitLover",
+      "title": "Lover of Literature",
+      "author": "Ethan Harris"
+    },
+    {
+      "title": "Demo",
+      "author": "Test",
+      "id": 48
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
